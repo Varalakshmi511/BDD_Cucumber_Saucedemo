@@ -1,0 +1,611 @@
+[INFO ] 2026-01-30 10:01:06.951 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:01:07.031 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:01:07.548 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:01:08.030 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:01:08.222 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:01:08.236 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:01:08.361 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-30 10:01:08.497 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-30 10:01:08.673 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:01:09.652 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:01:10.129 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:01:10.453 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:01:10.561 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:01:10.578 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:01:10.679 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:01:11.424 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:01:11.437 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:01:11.536 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:01:12.422 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:01:12.932 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:01:13.341 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:01:13.528 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:01:13.538 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:01:13.634 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:01:14.361 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:01:14.379 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:01:14.483 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:01:15.451 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:01:15.451 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:01:16.048 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:01:16.346 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:01:16.475 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:01:16.483 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:01:16.589 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:01:17.319 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:01:17.328 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:01:17.451 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:05:24.889 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:05:25.002 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:05:25.493 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:05:25.993 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:05:26.194 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:05:26.211 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:05:26.325 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-30 10:05:26.468 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-30 10:05:26.683 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:05:27.627 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:05:28.167 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:05:28.463 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:05:28.576 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:05:28.588 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:05:28.730 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:05:29.004 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:05:29.016 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:05:29.185 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:05:30.105 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:05:30.605 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:05:30.965 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:05:31.093 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:05:31.104 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:05:31.210 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:05:31.932 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:05:31.955 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:05:32.081 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:05:32.978 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:05:32.980 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:05:33.491 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:05:33.875 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:05:34.028 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:05:34.040 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:05:34.133 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:05:34.856 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:05:34.868 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:05:35.027 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:06:24.590 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:06:24.668 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:06:24.799 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:06:25.656 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:06:25.860 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:06:25.873 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:06:26.060 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-30 10:06:26.187 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-30 10:06:26.374 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:06:27.365 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:06:27.816 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:06:28.249 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:06:28.427 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:06:28.439 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:06:28.537 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:06:29.324 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:06:29.341 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:06:29.465 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:06:30.375 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:06:30.819 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:06:31.126 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:06:31.288 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:06:31.302 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:06:31.406 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:06:32.149 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:06:32.164 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:06:32.267 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:06:33.152 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:06:33.152 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:06:33.633 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:06:34.075 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:06:34.240 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:06:34.251 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:06:34.346 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:06:35.072 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:06:35.080 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:06:35.264 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:08:16.159 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:08:16.238 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:08:16.862 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:08:17.324 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:08:17.520 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:08:17.532 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:08:17.660 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-30 10:08:17.775 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-30 10:08:17.953 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:08:18.965 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:08:19.416 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:08:19.735 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:08:19.874 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:08:19.884 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:08:20.002 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:08:20.748 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:08:20.759 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:08:20.882 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:08:21.788 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:08:22.231 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:08:22.632 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:08:22.814 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:08:22.830 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:08:22.925 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:08:23.719 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:08:23.729 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:08:23.849 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:08:24.760 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:08:24.760 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:08:25.210 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:08:25.547 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:08:25.686 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:08:25.694 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:08:25.787 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:08:26.592 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:08:26.605 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:08:26.716 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:28:26.110 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:28:26.206 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:28:26.733 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:28:27.221 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:28:27.404 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:28:27.416 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:28:27.521 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-30 10:28:27.624 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-30 10:28:27.765 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:28:28.677 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:28:29.175 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:28:29.568 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:28:29.731 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:28:29.747 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:28:29.839 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:28:30.554 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:28:30.572 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:28:30.728 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:28:31.659 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:28:32.115 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:28:32.424 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:28:32.553 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:28:32.562 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:28:32.658 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:28:33.385 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:28:33.395 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:28:33.527 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:28:34.459 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:28:34.464 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:28:34.921 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:28:35.260 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:28:35.407 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:28:35.420 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:28:35.517 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:28:36.244 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:28:36.258 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:28:36.383 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:31:45.991 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:31:46.056 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:31:46.556 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:31:46.950 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:31:47.122 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:31:47.139 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:31:47.282 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-30 10:31:47.410 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-30 10:31:47.582 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:32:07.378 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:32:07.842 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:32:08.214 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:32:08.418 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:32:08.426 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:08.595 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:32:08.908 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:32:08.939 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:09.119 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:32:10.046 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:32:10.507 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:32:10.825 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:32:10.941 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:32:10.956 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:11.053 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:32:11.798 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:32:11.817 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:11.920 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:32:12.866 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:32:12.866 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:32:13.329 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:32:13.642 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:32:13.771 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:32:13.789 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:13.900 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:32:14.692 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:32:14.705 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:14.865 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:32:29.645 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:32:29.733 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:32:30.202 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:32:30.638 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:32:30.821 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:32:30.833 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:30.959 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-30 10:32:31.082 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-30 10:32:31.248 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:32:32.245 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:32:32.739 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:32:33.047 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:32:33.168 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:32:33.184 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:33.292 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:32:34.046 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:32:34.066 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:34.209 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:32:35.121 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:32:35.585 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:32:35.980 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:32:36.128 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:32:36.140 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:36.217 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:32:36.987 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:32:37.004 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:37.152 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:32:38.070 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:32:38.072 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:32:38.558 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:32:38.920 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:32:39.061 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:32:39.072 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:39.174 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:32:39.940 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:32:39.955 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:32:40.095 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:35:52.233 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:35:52.393 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:35:52.917 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:35:53.402 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:35:53.597 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:35:53.606 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:35:53.750 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-30 10:35:53.911 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-30 10:35:54.122 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:35:55.193 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:35:55.666 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:35:56.040 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:35:56.236 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:35:56.253 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:35:56.342 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:35:57.095 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:35:57.107 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:35:57.230 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:35:58.128 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:35:58.620 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:35:59.016 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:35:59.162 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:35:59.174 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:35:59.270 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:36:00.036 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:36:00.053 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:36:00.193 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:36:01.139 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:36:01.139 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:36:01.570 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:36:01.910 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:36:02.044 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:36:02.057 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:36:02.175 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:36:02.931 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:36:02.946 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:36:03.036 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:38:35.979 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:38:36.076 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:38:36.592 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:38:37.110 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:38:37.324 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:38:37.345 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:38:37.469 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-30 10:38:37.627 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-30 10:38:37.732 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:38:38.958 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:38:39.065 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:38:39.802 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:38:39.922 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:38:39.931 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:38:40.019 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:38:40.814 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:38:40.838 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:38:40.958 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:38:41.872 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:38:42.365 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:38:42.712 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:38:42.844 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:38:42.850 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:38:42.936 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:38:43.655 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:38:43.663 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:38:43.770 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:38:44.668 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:38:44.675 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:38:45.160 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:38:45.489 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:38:45.619 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:38:45.630 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:38:45.735 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:38:46.529 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:38:46.546 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:38:46.700 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:39:27.289 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:39:27.340 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:39:27.805 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:39:28.081 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:39:28.186 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:39:28.202 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:39:28.272 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-30 10:39:28.337 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-30 10:39:28.460 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:39:29.313 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:39:29.775 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:39:30.027 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:39:30.116 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:39:30.132 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:39:30.213 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:39:30.891 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:39:30.898 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:39:31.003 [main] StepDef - Browser is closed
+[FATAL] 2026-01-30 10:39:31.793 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:39:32.240 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:39:32.525 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:39:32.620 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:39:32.632 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:39:32.711 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:39:33.351 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:39:33.358 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:39:33.450 [main] StepDef - Browser is closed
+[INFO ] 2026-01-30 10:39:34.250 [main] StepDef - setup2 executed
+[FATAL] 2026-01-30 10:39:34.251 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-30 10:39:34.680 [main] StepDef - url is opened
+[WARN ] 2026-01-30 10:39:34.944 [main] StepDef - entered email and password
+[DEBUG] 2026-01-30 10:39:35.045 [main] StepDef - login button clicked
+[INFO ] 2026-01-30 10:39:35.060 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:39:35.143 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-30 10:39:35.787 [main] StepDef - User logout successfully
+[INFO ] 2026-01-30 10:39:35.794 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-30 10:39:35.868 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 14:57:41.007 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 14:57:41.681 [main] StepDef - url is opened
+[WARN ] 2026-01-31 14:57:42.261 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 14:57:42.580 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 14:57:42.854 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 14:57:43.251 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 14:57:43.777 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 14:57:43.910 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 14:57:44.218 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 14:57:45.392 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 14:57:45.979 [main] StepDef - url is opened
+[WARN ] 2026-01-31 14:57:46.454 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 14:57:46.674 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 14:57:46.960 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 14:57:47.324 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 14:57:47.840 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 14:57:47.961 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 14:57:48.253 [main] StepDef - Browser is closed
+[INFO ] 2026-01-31 14:57:49.212 [main] StepDef - setup2 executed
+[FATAL] 2026-01-31 14:57:49.212 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 14:57:49.845 [main] StepDef - url is opened
+[WARN ] 2026-01-31 14:57:50.248 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 14:57:50.508 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 14:57:50.828 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 14:57:51.113 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 14:57:51.595 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 14:57:51.741 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 14:57:52.054 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 14:58:43.949 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 14:58:44.547 [main] StepDef - url is opened
+[WARN ] 2026-01-31 14:58:45.195 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 14:58:45.546 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 14:58:45.862 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 14:58:46.279 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 14:58:46.813 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 14:58:46.955 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 14:58:47.464 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 14:58:48.522 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 14:58:49.141 [main] StepDef - url is opened
+[WARN ] 2026-01-31 14:58:49.600 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 14:58:49.867 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 14:58:50.158 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 14:58:50.522 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 14:58:50.955 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 14:58:51.078 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 14:58:51.280 [main] StepDef - Browser is closed
+[INFO ] 2026-01-31 14:58:52.346 [main] StepDef - setup2 executed
+[FATAL] 2026-01-31 14:58:52.346 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 14:58:52.960 [main] StepDef - url is opened
+[WARN ] 2026-01-31 14:58:53.431 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 14:58:53.684 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 14:58:53.972 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 14:58:54.322 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 14:58:54.783 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 14:58:54.905 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 14:58:55.164 [main] StepDef - Browser is closed
+[INFO ] 2026-01-31 15:01:48.235 [main] StepDef - setup2 executed
+[FATAL] 2026-01-31 15:01:48.293 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:01:48.986 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:01:49.674 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:01:50.008 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:01:50.297 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:01:50.713 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-31 15:01:50.976 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-31 15:01:51.324 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 15:01:52.458 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:01:53.152 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:01:53.648 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:01:53.944 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:01:54.192 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:01:54.540 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:01:54.990 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:01:55.112 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:01:55.412 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 15:01:56.337 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:01:57.035 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:01:57.491 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:01:57.739 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:01:58.036 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:01:58.376 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:01:58.890 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:01:59.020 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:01:59.296 [main] StepDef - Browser is closed
+[INFO ] 2026-01-31 15:02:00.279 [main] StepDef - setup2 executed
+[FATAL] 2026-01-31 15:02:00.282 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:02:01.310 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:02:01.808 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:02:02.073 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:02:02.395 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:02:02.774 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:02:03.223 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:02:03.353 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:02:03.571 [main] StepDef - Browser is closed
+[INFO ] 2026-01-31 15:03:45.596 [main] StepDef - setup2 executed
+[FATAL] 2026-01-31 15:03:45.651 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:03:46.264 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:03:46.859 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:03:47.190 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:03:47.490 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:03:47.841 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-31 15:03:48.203 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-31 15:03:48.541 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 15:03:49.548 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:03:50.175 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:03:50.658 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:03:50.923 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:03:51.186 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:03:51.510 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:03:52.002 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:03:52.136 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:03:52.378 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 15:03:53.367 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:03:54.000 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:03:54.527 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:03:54.801 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:03:55.082 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:03:55.422 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:03:55.870 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:03:55.999 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:03:56.279 [main] StepDef - Browser is closed
+[INFO ] 2026-01-31 15:03:57.366 [main] StepDef - setup2 executed
+[FATAL] 2026-01-31 15:03:57.367 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:03:58.195 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:03:58.663 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:03:58.925 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:03:59.199 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:03:59.517 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:04:00.058 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:04:00.181 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:04:00.497 [main] StepDef - Browser is closed
+[INFO ] 2026-01-31 15:07:26.994 [main] StepDef - setup2 executed
+[FATAL] 2026-01-31 15:07:27.072 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:07:27.591 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:07:28.029 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:07:28.201 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:07:28.211 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:07:28.340 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-31 15:07:28.465 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-31 15:07:28.567 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 15:07:29.498 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:07:29.951 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:07:30.305 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:07:30.414 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:07:30.427 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:07:30.527 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:07:31.304 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:07:31.322 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:07:31.465 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 15:07:32.247 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:07:32.765 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:07:33.177 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:07:33.319 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:07:33.332 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:07:33.435 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:07:34.154 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:07:34.167 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:07:34.285 [main] StepDef - Browser is closed
+[INFO ] 2026-01-31 15:07:35.052 [main] StepDef - setup2 executed
+[FATAL] 2026-01-31 15:07:35.063 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:07:35.520 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:07:35.928 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:07:36.068 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:07:36.077 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:07:36.186 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:07:36.915 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:07:36.930 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:07:37.096 [main] StepDef - Browser is closed
+[INFO ] 2026-01-31 15:09:53.927 [main] StepDef - setup2 executed
+[FATAL] 2026-01-31 15:09:54.008 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:09:54.502 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:09:54.946 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:09:55.134 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:09:55.151 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:09:55.285 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-31 15:09:55.401 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-31 15:09:55.558 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 15:09:56.619 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:09:57.117 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:09:57.450 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:09:57.554 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:09:57.567 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:09:57.697 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:09:58.444 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:09:58.463 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:09:58.630 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 15:09:59.538 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:10:00.060 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:10:00.385 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:10:00.516 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:10:00.524 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:10:00.621 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:10:01.354 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:10:01.371 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:10:01.486 [main] StepDef - Browser is closed
+[INFO ] 2026-01-31 15:10:02.387 [main] StepDef - setup2 executed
+[FATAL] 2026-01-31 15:10:02.389 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:10:02.907 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:10:03.224 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:10:03.344 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:10:03.358 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:10:03.477 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:10:04.258 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:10:04.272 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:10:04.406 [main] StepDef - Browser is closed
+[INFO ] 2026-01-31 15:18:59.804 [main] StepDef - setup2 executed
+[FATAL] 2026-01-31 15:18:59.883 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:19:00.404 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:19:00.827 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:19:01.006 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:19:01.020 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:19:01.158 [main] StepDef - User clicked on add cart button
+[INFO ] 2026-01-31 15:19:01.287 [main] StepDef - remove button is displayed
+[INFO ] 2026-01-31 15:19:01.423 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 15:19:02.448 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:19:02.937 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:19:03.335 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:19:03.487 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:19:03.501 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:19:03.609 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:19:04.362 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:19:04.376 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:19:04.502 [main] StepDef - Browser is closed
+[FATAL] 2026-01-31 15:19:05.480 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:19:06.066 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:19:06.379 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:19:06.500 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:19:06.510 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:19:06.618 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:19:07.346 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:19:07.360 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:19:07.516 [main] StepDef - Browser is closed
+[INFO ] 2026-01-31 15:19:08.412 [main] StepDef - setup2 executed
+[FATAL] 2026-01-31 15:19:08.412 [main] StepDef - User launched chrome browser
+[ERROR] 2026-01-31 15:19:08.936 [main] StepDef - url is opened
+[WARN ] 2026-01-31 15:19:09.325 [main] StepDef - entered email and password
+[DEBUG] 2026-01-31 15:19:09.565 [main] StepDef - login button clicked
+[INFO ] 2026-01-31 15:19:09.578 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:19:09.657 [main] StepDef - Menu option is clicked
+[INFO ] 2026-01-31 15:19:10.428 [main] StepDef - User logout successfully
+[INFO ] 2026-01-31 15:19:10.443 [main] StepDef - Test passed: loginfeature page Title matched
+[INFO ] 2026-01-31 15:19:10.585 [main] StepDef - Browser is closed

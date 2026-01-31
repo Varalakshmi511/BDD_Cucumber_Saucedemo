@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+
+    <configuration>
+
+        <!-- Report Theme -->
+        <theme>dark</theme>
+        <!-- options: standard / dark -->
+
+        <!-- Document Title -->
+        <documentTitle>BDD Automation Test Report</documentTitle>
+
+        <!-- Report Name -->
+        <reportName>Cucumber Automation Execution Report</reportName>
+
+        <!-- Encoding -->
+        <encoding>UTF-8</encoding>
+
+        <!-- Timestamp Format -->
+        <timeStampFormat>dd-MM-yyyy HH:mm:ss</timeStampFormat>
+
+        <!-- Enable Charts -->
+        <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+
+        <!-- Offline Mode -->
+        <offlineMode>true</offlineMode>
+
+        <!-- Custom CSS (Optional) -->
+        <!--
+        <css>
+            <![CDATA[
+                .brand-logo { display: none; }
+            ]]>
+        </css>
+        -->
+
+        <!-- Custom JS (Optional) -->
+        <!--
+        <js>
+            <![CDATA[
+                console.log("Extent Report Loaded");
+            ]]>
+        </js>
+        -->
+
+    </configuration>
+
+</extentreports>
